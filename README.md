@@ -1,89 +1,68 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+This project demonstrates a complete, industry-standard, end-to-end data analytics workflow designed to reflect real-world responsibilities of a Data Analyst in a modern business environment. The project focuses on transforming raw customer data into actionable business insights through structured analysis, visualization, and reporting.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4118c7e0-e1ca-409d-b05f-2beeec273da1" />
 
+---
 
+## 🎯 Project Objective
 
-## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+The objective of this project is to simulate a corporate-level data analytics process by converting raw customer behavior data into meaningful insights that support data-driven decision-making.
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+---
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+## 📌 Project Scope & Methodology
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+- **Data Preparation & Cleaning (Python):**  
+  Imported raw customer datasets, handled missing values, removed duplicates, and transformed data to ensure accuracy and consistency.
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+- **Exploratory Data Analysis (EDA):**  
+  Performed exploratory analysis to identify trends, patterns, and anomalies using statistical techniques and visualizations.
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
+- **Data Analysis (SQL):**  
+  Executed SQL queries to analyze customer segments, purchase behavior, loyalty trends, and key performance metrics.
 
-## 🛠️ How to Use This Project
+- **Data Visualization (Power BI):**  
+  Designed interactive dashboards highlighting sales trends, customer behavior patterns, and actionable insights for stakeholders.
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+- **Reporting & Presentation:**  
+  Prepared a structured project report summarizing findings and business recommendations, along with a presentation to clearly communicate insights.
 
-    This file contains:
+---
 
-      - Data Import
+## 🛠️ Tools & Technologies Used
 
-      - Data exploration
+- Python (Pandas, NumPy, Matplotlib – Basics)
+- SQL (MySQL / PostgreSQL – Basic Queries)
+- Microsoft Excel (Formulas, Pivot Tables, Charts)
+- Power BI (Interactive Dashboards)
 
-      - Data cleaning
+---
 
-      - Connection to SQL Database
-  
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+## 📊 Key Outcomes
 
-      - Create a database in SQL
+- Identified customer purchasing trends and behavioral patterns  
+- Segmented customers based on buying behavior and loyalty  
+- Highlighted key drivers influencing sales performance  
+- Delivered insights to support data-driven business decisions  
 
-      - Run Python code to load data into SQL database
-  
-      - Open **customer_behavior_sql_queries.sql**
-  
-      - Answer Business Questions using SQL Queries 
-      
-4. **Connect the SQL Database to Power BI**
+---
 
-      - Open **customer_behavior_dashboard.pbix**
-   
-      - Create interactive dashboard in Power BI
-  
-6. **Create Project Report and Presentation**
+## 📈 Skills Demonstrated
 
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- SQL-Based Data Analysis  
+- Data Visualization & Dashboarding  
+- Business Insight Generation  
+- Reporting & Communication  
 
+---
 
-## 📜 License
+## 💡 Conclusion
 
-MIT — feel free to fork, star, and use in your portfolio.
+This project highlights practical, hands-on experience in data analytics by applying industry-relevant tools and methodologies. It demonstrates the ability to analyze real-world datasets, extract meaningful insights, and present them in a clear, business-focused manner.
 
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
+---
 
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
-- Beginner-friendly tutorials, real-world projects, job and career advice
-
-📺 Instagram: [datacareerschool](https://www.instagram.com/datacareerschool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+*Thank You*
